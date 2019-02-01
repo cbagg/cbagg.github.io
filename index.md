@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Chase Baggett
 ---
 
 # Welcome to my github.
