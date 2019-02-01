@@ -6,7 +6,9 @@ title: Chase Baggett
 # What I Do
 
 [Using Lasso and Ridge Regression for Variable Importance](https://github.com/cbagg/Penalized-Regression)
+
 [Using Clustering to Perform Customer Segmentation](https://github.com/cbagg/Customer-Segmentation-Clustering)
+
 [Using Support Vector Machines to Predict Promotion Effectiveness](https://github.com/cbagg/Orange-Juice-SVM)
 
 # Who I Am
