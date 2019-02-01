@@ -14,7 +14,9 @@ Disruptors and entrepeneurs such as Larry Page, Sergey Brin, Mark Zuckerberg, Tr
 The best way to understand a company is through its data. Data is the method by which you mine insights, and analytics is the mere application of quantitative methods to strategic thought. Data driven companies must drive data literacy throughout every level of their organization to succeed.
 
 
-I manage data scientists and product managers tasked with building great products by understanding the business, the data, and the technology simultaneously. I do this by remembering a few core principles. 
+I manage data scientists and product managers tasked with building great products by understanding the business, the data, and the technology simultaneously. 
+
+I do this by remembering a few core principles. 
 
 * Good solutions and technology exist only with respect to the problems they solve. 
 * There is no replacement for competency. Not even leadership skills or attitude.
