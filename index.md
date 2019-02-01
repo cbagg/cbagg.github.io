@@ -12,6 +12,6 @@ My core values are simple.
 * There is no replacement for competency. Not even leadership skills or attitude.
 * A positive attitude is almost always at least one required competency of any task.
 * Innovative solutions usually come from unfamilar and even confusing spaces.
-* Groups of people who respect each other's expertise always outperform the brilliant loner.
-* There is no on/off switch at birth that determines a persons mathematical or technical acumen.
-* Being intelligent is no substitute for being educated, but education can happen in or out of a classroom.
+* Cohorts of people with expertise always outperform the brilliant loner.
+* There is no flag at birth that determines mathematical or technical acumen.
+* Intelligence is no substitute for knowledge, which schooling sometimes provides.
