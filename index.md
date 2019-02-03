@@ -1,7 +1,13 @@
 ---
 layout: default
 title: Chase Baggett
+subtitle: Product Driven Data Science Leader
 ---
+
+* 10 Years of Experience in Data & Analytics
+* 5 Years of Experience in Programming & Computing.
+* 4 Years of Experience Leading Projects & Product Teams.
+* 3 Years of Experience in Data Science.
 
 # What I Do
 
@@ -14,15 +20,19 @@ title: Chase Baggett
 [Using ANCOVA and Tukey to Find Optimal Banner Placement](https://github.com/cbagg/Click-Through-Rate-ANCOVA/blob/master/Avazu_Click_Through_Rate_Analysis.md)
 
 # Who I Am
-I am data science and product management leader currently working in the Minneapolis metro. Though a transplant from the Dallas area, I have followed my career north. I am a lifelong learner driven by the wide array of problems businesses face that are ultimately solvable with data. I have ten years of experience working with data to solve business problems. I have formal training in statistics, am familar with traiditional & cutting edge machine learning techniques, and am a competent programmer and data architect. 
-
-Like most economics majors, I imagined myself as a business owner; the training prepares one to understand the deep mechanics of pricing, optimization, and forecasting that are crucial. As I grew my career, I learned that most traditional business leaders do very little of this. Deep expertise in the mechanics of the business is often relegated downward to the lower levels of the company. I believe this is the fundamental reason most businesses are rife for disruption. 
+I am data science and product management leader currently working in the Minneapolis metro. Though a transplant from the Dallas area, I have followed my career north. I am a lifelong learner driven by the wide array of problems businesses face that are ultimately solvable with data. I have ten years of experience working with data to solve business problems. I have formal training in statistics, am familar with traiditional & cutting edge machine learning techniques, and am a capable programmer and data architect. 
 
 # Why I am a Product Manager
+Like most economics majors, I imagined myself as a business owner; the training prepares one to understand the deep mechanics of pricing, optimization, and forecasting that are crucial. As I grew my career, I learned that most traditional business leaders do very little of this. Deep expertise in the mechanics of the business is often relegated downward to the lower levels of the company. I believe this is the fundamental reason most businesses are rife for disruption. 
+
 Disruptors such as Sergey Brin, Mark Zuckerberg, and Elon Musk have revolutionized their industries because they are fundamentally driven by a deep and abiding understanding of their technology, product, and customers. Many companies have taken a core part of their business, and treated it as a non-critical understanding. Lack of a CPA prevents one from being CFO, but knowledge of technology and data does not bear the same impact to lead technology strategy. I am not satisfied with sitting on the sidelines or staying in my lane. Everything within a product is my lane, and I will drive it to success.
 
 # Why I am a Data Scientist
 The best way to understand a company is through its data. Data is the method by which you mine insights, with analytics being the application of quantitative methods to strategic thought. Matching algorithms for medical research are used on dating sites, and algorithms from genetics can optimize a stock trading platform. Disruption comes from cross-discipline study, and data science provides an avenue for the application of radical solutions to age old problems.
+
+Numerous times in my career I have seen outsiders provide a solution so radical a departure from the way the business would have otherwise approached it, that its effectiveness is transformational. Survival models typically used in biology research can be leveraged to predict customer churn. Chatbot NLU models can be turned on their head for real time monitoring of EDI feeds. Customer segmentation and social network modeling can be done in a way that finds the optimum sales path to a customer. 
+
+Early in my career I did not consider myself a "science", "math", or "computer" guy, but true business leaders learn all parts of their business and whatever skills are most effective-- and the cutting edge of how businesses compete is now in these fields, and I have adapted to leverage them. 
 
 # What I believe
 I manage data scientists and product managers tasked with building great products by understanding the business, the data, and the technology simultaneously. 
