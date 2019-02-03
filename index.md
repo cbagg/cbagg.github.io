@@ -10,11 +10,13 @@ title: Chase Baggett
 
 # What I Do
 
-There are 5 core areas of data science that are crucial for success. 
+There are four core areas of data science that are crucial for success. I have devoted a near equal amount of time to developing myself in these four areas. 
 
 ![Data Science Venn Diagram](data-science-venn-stephan-kolassa.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
+##Communication
 
+##Statistics
 
 [Using Lasso and Ridge Regression for Variable Importance](https://github.com/cbagg/Penalized-Regression)
 
@@ -23,6 +25,10 @@ There are 5 core areas of data science that are crucial for success.
 [Using Support Vector Machines to Predict Promotion Effectiveness](https://github.com/cbagg/Orange-Juice-SVM)
 
 [Using ANCOVA and Tukey to Find Optimal Banner Placement](https://github.com/cbagg/Click-Through-Rate-ANCOVA/blob/master/Avazu_Click_Through_Rate_Analysis.md)
+
+##Programming
+
+##Business
 
 # Who I Am
 I am data science and product management leader currently working in the Minneapolis metro. Though a transplant from the Dallas area, I have followed my career north. I am a lifelong learner driven by the wide array of problems businesses face that are ultimately solvable with data. I have ten years of experience working with data to solve business problems. I have formal training in statistics, am familar with traiditional & cutting edge machine learning techniques, and am a capable programmer and data architect. 
