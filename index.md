@@ -10,7 +10,9 @@ title: Chase Baggett
 
 # What I Do
 
-![Data Science Venn Diagram](data-science-venn-stephan-kolassa.png)
+There are 5 core areas of data science that are crucial for success. 
+
+![Data Science Venn Diagram](data-science-venn-stephan-kolassa.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 
 
