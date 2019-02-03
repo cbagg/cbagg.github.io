@@ -41,6 +41,8 @@ Like most economics majors, I imagined myself as a business owner; the training 
 
 Disruptors such as Sergey Brin, Mark Zuckerberg, and Elon Musk have revolutionized their industries because they are fundamentally driven by a deep and abiding understanding of their technology, product, and customers. Many companies have taken a core part of their business, and treated it as a non-critical understanding. Lack of a CPA prevents one from being CFO, but knowledge of technology and data does not bear the same impact to lead technology strategy. I am not satisfied with sitting on the sidelines or staying in my lane. Everything within a product is my lane, and I will drive it to success.
 
+The product management discipline is ideal for this approach. Product managers must understand every facet of their product from the technology to its users. Understanding is often greatly assisted by data, so a Data Scientist can often make an ideal product manager. 
+
 # Why I am a Data Scientist
 ![Innovation to Disruption](innovation_disruption.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 The best way to understand a company is through its data. Data is the method by which you mine insights, with analytics being the application of quantitative methods to strategic thought. 
