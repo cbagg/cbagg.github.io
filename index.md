@@ -36,7 +36,7 @@ There are four core areas of data science that are crucial for success. I have d
 ## Business
 
 # Why I am a Product Manager
-![Product Management Venn Diagram](pm-venn.png){:style="float: left;margin-right: 7px;margin-top: 7px;width: 325px;"}
+![Product Management Venn Diagram](pm-venn.png){:style="float: left;margin-right: 7px;margin-top: 7px;width: 350px;"}
 Like most economics majors, I imagined myself as a business owner; the training prepares one to understand the deep mechanics of pricing, optimization, and forecasting that are crucial. As I grew my career, I learned that most traditional business leaders do very little of this. Deep expertise in the mechanics of the business is often relegated downward to the lower levels of the company. I believe this is the fundamental reason most businesses are rife for disruption. 
 
 Disruptors such as Sergey Brin, Mark Zuckerberg, and Elon Musk have revolutionized their industries because they are fundamentally driven by a deep and abiding understanding of their technology, product, and customers. Many companies have taken a core part of their business, and treated it as a non-critical understanding. Lack of a CPA prevents one from being CFO, but knowledge of technology and data does not bear the same impact to lead technology strategy. I am not satisfied with sitting on the sidelines or staying in my lane. Everything within a product is my lane, and I will drive it to success.
