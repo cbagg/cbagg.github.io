@@ -14,9 +14,9 @@ There are four core areas of data science that are crucial for success. I have d
 
 ![Data Science Venn Diagram](data-science-venn-stephan-kolassa.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
-##Communication
+## Communication
 
-##Statistics
+## Statistics
 
 [Using Lasso and Ridge Regression for Variable Importance](https://github.com/cbagg/Penalized-Regression)
 
@@ -26,9 +26,9 @@ There are four core areas of data science that are crucial for success. I have d
 
 [Using ANCOVA and Tukey to Find Optimal Banner Placement](https://github.com/cbagg/Click-Through-Rate-ANCOVA/blob/master/Avazu_Click_Through_Rate_Analysis.md)
 
-##Programming
+## Programming
 
-##Business
+## Business
 
 # Who I Am
 I am data science and product management leader currently working in the Minneapolis metro. Though a transplant from the Dallas area, I have followed my career north. I am a lifelong learner driven by the wide array of problems businesses face that are ultimately solvable with data. I have ten years of experience working with data to solve business problems. I have formal training in statistics, am familar with traiditional & cutting edge machine learning techniques, and am a capable programmer and data architect. 
