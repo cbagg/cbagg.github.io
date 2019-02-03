@@ -43,11 +43,11 @@ Disruptors such as Sergey Brin, Mark Zuckerberg, and Elon Musk have revolutioniz
 
 # Why I am a Data Scientist
 ![Innovation to Disruption](innovation_disruption.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
-The best way to understand a company is through its data. Data is the method by which you mine insights, with analytics being the application of quantitative methods to strategic thought. Matching algorithms for medical research are used on dating sites, and algorithms from genetics can optimize a stock trading platform. Disruption comes from cross-discipline study, and data science provides an avenue for the application of radical solutions to age old problems.
+The best way to understand a company is through its data. Data is the method by which you mine insights, with analytics being the application of quantitative methods to strategic thought. 
 
-Numerous times in my career I have seen outsiders provide a solution so radical a departure from the way the business would have otherwise approached it, that its effectiveness is transformational. Survival models typically used in biology research can be leveraged to predict customer churn. Chatbot NLU models can be turned on their head for real time monitoring of EDI feeds. Customer segmentation and social network modeling can be done in a way that finds the optimum sales path to a customer. 
+Numerous times in my career I have seen outsiders provide a solution so radical a departure from the way the business would have otherwise approached it, that its effectiveness is transformational. Survival models typically used in biology research can be leveraged to predict customer churn. Chatbot NLU models can be turned on their head for real time monitoring of EDI feeds. Customer segmentation and social network modeling can be done in a way that finds the optimum sales path to a customer. Matching algorithms for medical research are used on dating sites, and algorithms from genetics can optimize a stock trading platform. 
 
-Early in my career I did not consider myself a "science", "math", or "computer" guy, but true business leaders learn all parts of their business and whatever skills are most effective-- and the cutting edge of how businesses compete is now in these fields, and I have adapted to leverage them. 
+Disruption comes from cross-discipline study, and data science provides an avenue for the application of radical solutions to age old problems. Early in my career I did not consider myself a "science", "math", or "computer" guy, but true business leaders learn all parts of their business and whatever skills are most effective-- and the cutting edge of how businesses compete is now in these fields, and I have adapted to leverage them. 
 
 # What I believe
 I manage data scientists and product managers tasked with building great products by understanding the business, the data, and the technology simultaneously. 
