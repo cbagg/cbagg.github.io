@@ -1,15 +1,18 @@
 ---
 layout: default
 title: Chase Baggett
-subtitle: Product Driven Data Science Leader
 ---
 
 * 10 Years of Experience in Data & Analytics
 * 5 Years of Experience in Programming & Computing.
-* 4 Years of Experience Leading Projects & Product Teams.
+* 4 Years of Experience Leading Projects & Product Design.
 * 3 Years of Experience in Data Science.
 
 # What I Do
+
+![Data Science Venn Diagram](data-science-venn-stephan-kolassa.png)
+
+
 
 [Using Lasso and Ridge Regression for Variable Importance](https://github.com/cbagg/Penalized-Regression)
 
