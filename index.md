@@ -18,10 +18,15 @@ I am data science and product management leader currently working in the Minneap
 There are four core areas of data science that are crucial for success. I have devoted a near equal amount of time to developing myself in these four areas. 
 
 
-
 ## Communication
 
+Many times in my career I have lead my product and project teams and been the primary communication between the team and executive leaders. I have presented results to executive stakeholders and explained modeling results to users. I cultivate this experience regularly and enjoy the opportunity to collaborate across disciplines.
+
 ## Statistics
+
+I have completed graduate coursework in Regression, Time Series Analysis, Analysis of Variance, and Data Mining at Penn State. 
+
+Here are some completed statistical analysis.
 
 [Using Lasso and Ridge Regression for Variable Importance](https://github.com/cbagg/Penalized-Regression)
 
@@ -31,9 +36,25 @@ There are four core areas of data science that are crucial for success. I have d
 
 [Using ANCOVA and Tukey to Find Optimal Banner Placement](https://github.com/cbagg/Click-Through-Rate-ANCOVA/blob/master/Avazu_Click_Through_Rate_Analysis.md)
 
-## Programming
+## Programming & Technology
+
+I am a proficient R & Python programmer, and am capable of integrating the full stack. 
+
+This includes:
+
+* Linux Fundamentals and System Management including Bash Scripting
+* Provision & Configuring Databases (SQL & noSQL)
+* Developing Algorithms & Statistical Models
+* Configuring Data Piplines
+* Building & Scaling Services
+
+Here are some examples:
+
+[Scaling an R Algorithm for Production Integration](https://github.com/cbagg/Scalable-R-Algorithm)
 
 ## Business
+
+I have developed a subject matter expertise in Transportation & Logistics for Supply Chain. I have been engaged by technical teams to provide guidance on multiple occasions and have attended numerous conferences on the subject. I enjoy immersing myself in a set of problems an bringing cross-discipline perspectivs. 
 
 # Why I am a Product Manager
 ![Product Management Venn Diagram](pm-venn.png){:style="float: left;margin-right: 7px;margin-top: 7px;width: 350px;"}
